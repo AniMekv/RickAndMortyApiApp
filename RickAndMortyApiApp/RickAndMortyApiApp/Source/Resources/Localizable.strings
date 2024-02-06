@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  RickAndMortyApiApp
+
+  Created by Ani Mekvabidze on 1/26/24.
+  
+*/
+
+"initial.tab.title" = "Characters";
+"initial.search.placeholder" = "Search";
+
+"characterDetail.table.header" = "Episodes";
